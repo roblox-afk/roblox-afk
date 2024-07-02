@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Roblox, Fivem
-- 🌱 I’m currently learning Lua
+- 👀 I’m interested in Unity 3D
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me Discord, Email: nonstopstudioofficial@gmail.com
 
