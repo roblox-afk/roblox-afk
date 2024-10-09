@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity 3D
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me Discord, Email: nonstopstudioofficial@gmail.com
+- 📫 How to reach me Discord: @johnalex, Email: nonstopstudioofficial@gmail.com
 
 
 
