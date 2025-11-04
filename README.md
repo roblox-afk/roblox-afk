@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- I’m currently a Senior Developer @ [Paragon](https://github.com/SCP-F-Paragon) & Programmer @ [ACF-Archon](https://github.com/ACF-Archon)
+- 💼 I’m currently a Senior Developer @ [Paragon](https://github.com/SCP-F-Paragon) & Programmer @ [ACF-Archon](https://github.com/ACF-Archon)
 - 👀 I’m interested in Unity 3D
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on N/A
