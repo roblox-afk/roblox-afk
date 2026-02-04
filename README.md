@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 💼 I’m currently a Senior Developer @ [Paragon](https://github.com/SCP-F-Paragon) & Programmer @ [ACF-Archon](https://github.com/ACF-Archon)
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Development & Scalable Backend Systems
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me Discord: @johnalex, Email: nonstopstudioofficial@gmail.com
